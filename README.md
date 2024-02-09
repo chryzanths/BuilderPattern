@@ -17,3 +17,5 @@ However, you encounter challenges:
  - Optional fields: Not all customers provide complete information, but the constructor forces them to.
  - Data consistency: Changes to user profiles after registration can cause unexpected issues due to mutable fields.
  - Implement solution using the Builder Pattern to address the issue.
+
+![builderpattern](https://github.com/chryzanths/BuilderPattern/assets/104879763/bd504a25-9e1b-4615-b293-4ef095088d19)
